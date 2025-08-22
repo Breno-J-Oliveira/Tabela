@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/status-concluído-green?style=for-the-badge" alt="Status do Projeto">
   <img src="https://img.shields.io/badge/versão-1.0-blue?style=for-the-badge" alt="Versão">
-  <img src="https://img.shields.io/badge/feito%20com-HTML-orange?style=for-the-badge" alt="HTML">
+  <img src="https://img.shields.io/badge/feito%20com-HTML%20e%20CSS-orange?style=for-the-badge" alt="HTML e CSS">
 </p>
 
 Este projeto apresenta uma **tabela HTML** que exibe as posições dos times da **NBA** na temporada **2021/2022**, mostrando vitórias e número de jogos.
